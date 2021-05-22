@@ -1,0 +1,42 @@
+.header {
+  background-color: #562a81;
+  color: white;
+  padding: 1rem 0
+}
+
+.form-header {
+  padding-left: 1.5rem;
+}
+
+.input {
+  margin: .5rem 0;
+  padding: .5rem;
+  height: 30px;
+  font-size: 1rem;
+  border: 1px solid #d6cece;
+  border-radius: .25rem;
+}
+
+.text-area {
+  padding: .5rem;
+  font-size: 1rem;
+  border: 1px solid #d6cece;
+  border-radius: .25rem;
+  resize: none;
+}
+
+.input-outline {
+  outline-color: #562a81;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.save-button{
+  background-color: #562a81;
+  color: white;
+  border-radius: 5px;
+  width: 75px;
+  height: 30px;
+}

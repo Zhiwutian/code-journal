@@ -18,6 +18,18 @@
   width: 100%;
 }
 
+.flex {
+  display: flex;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
+.margin-spacer {
+  margin: .5rem 0;
+}
+
 @media screen and (min-width: 768px) {
   .container {
     max-width: 900px;

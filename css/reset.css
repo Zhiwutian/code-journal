@@ -9,5 +9,13 @@ h2 {
 }
 
 body {
-  background-color: rgb(240,240,240);
+  background-color: rgb(240, 240, 240);
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding: 0;
 }

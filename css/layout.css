@@ -30,6 +30,10 @@
   justify-content: space-between;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
 .margin-spacer {
   margin: 0.5rem 0;
 }
